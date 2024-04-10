@@ -1,4 +1,4 @@
-# Python Basics: Dat Types
+# Python Basics: Data Types
 
 # English Video: 
 # Tamil Video: 
