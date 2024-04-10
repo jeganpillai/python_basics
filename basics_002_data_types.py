@@ -1,7 +1,7 @@
 # Python Basics: Data Types
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=OpaV15_FW6s
+# Tamil Video: https://www.youtube.com/watch?v=T8A5xSJt7FM
 
 # Data Types in Python
 # Type 1: Numeric (Integers , Floats and Complex Numbers)
